@@ -1,3 +1,15 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header&%20render">
+<div align="center">
+<a href="https://github.com/HyZxx/"><img src="https://activity-graph.herokuapp.com/graph?username=HyZxx&theme=high-contrast"width="800"></a>
+</div>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=HyZxx&count_private=true&title_color=da2828&icon_color=da2828&text_color=9f9f9f&bg_color=151515" /> </p>
+<div align="center">
+<a href="https://github.com/HyZxx/"><img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=3&section=header&%20render">
+</a>
+
+<div align="center"> 
+<a href="https://github.com/HyZxx/"><img src="https://github-readme-stats.vercel.app/api?username=HyZxx&count_private=true&theme=dark"width="510"></a> 
+<a href="https://github.com/juletopi/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyZxx&count_private=true&layout=compact&theme=dark"width="310"></a>
+</div>
+
+
+
