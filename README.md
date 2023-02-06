@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/HyZxx/"><img src="https://activity-graph.herokuapp.com/graph?username=HyZxx&theme=high-contrast"width="800"></a>
+<a href="https://github.com/HyZxx/"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=HyZxx&theme=high-contrast"width="800"></a>
 </div>
 
 <div align="center">
