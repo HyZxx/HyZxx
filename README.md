@@ -7,7 +7,7 @@
 </a>
 
 <div align="center"> 
-<a href="https://github.com/HyZxx/"><img src="https://github-readme-stats.vercel.app/api?username=HyZxx&include_all_commits=true&hide=contribs&show_icons=true&theme=dark&icon_color=FFFFFF"width="510"></a>
+<a href="https://github.com/HyZxx/"><img src="https://github-readme-stats.vercel.app/api?username=HyZxx&include_all_commits=true&hide=contribs&count_privates&show_icons=true&theme=dark&icon_color=FFFFFF"width="510"></a>
 <a href="https://github.com/HyZxx/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyZxx&layout=compact&theme=dark"width="310"></a>
 </div>
 
